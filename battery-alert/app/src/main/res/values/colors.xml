@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF10141C</color>
+    <color name="surface">#FF1B2230</color>
+    <color name="purple">#FFA66BFF</color>
+    <color name="cyan">#FF3FE0F0</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFB4BDCC</color>
+    <color name="icon_bg">#FF2A3342</color>
+</resources>
