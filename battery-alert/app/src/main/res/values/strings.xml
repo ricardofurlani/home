@@ -16,7 +16,7 @@
     <string name="channel_monitor_name">Monitoramento da bateria</string>
     <string name="channel_monitor_desc">Notificação fixa enquanto o app monitora a bateria.</string>
     <string name="channel_alert_name">Bateria carregada</string>
-    <string name="channel_alert_desc">Alerta sonoro quando a bateria chega a 100%.</string>
+    <string name="channel_alert_desc" formatted="false">Alerta sonoro quando a bateria chega a 100%.</string>
     <string name="monitor_notification_title">Monitorando bateria: %1$d%%</string>
     <string name="alert_title" formatted="false">Bateria 100% carregada!</string>
     <string name="alert_text">Desconecte o carregador.</string>
