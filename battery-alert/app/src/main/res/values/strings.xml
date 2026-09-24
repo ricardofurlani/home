@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Bateria 100%</string>
-    <string name="monitoring_label">Avisar quando a bateria chegar a 100%</string>
+    <string name="app_name" formatted="false">Bateria 100%</string>
+    <string name="monitoring_label" formatted="false">Avisar quando a bateria chegar a 100%</string>
     <string name="monitoring_on">Monitoramento ativo. Você será avisado quando o carregamento terminar.</string>
     <string name="monitoring_off">Monitoramento desligado.</string>
     <string name="test_alert">Testar alerta</string>
@@ -18,7 +18,7 @@
     <string name="channel_alert_name">Bateria carregada</string>
     <string name="channel_alert_desc">Alerta sonoro quando a bateria chega a 100%.</string>
     <string name="monitor_notification_title">Monitorando bateria: %1$d%%</string>
-    <string name="alert_title">Bateria 100% carregada!</string>
+    <string name="alert_title" formatted="false">Bateria 100% carregada!</string>
     <string name="alert_text">Desconecte o carregador.</string>
     <string name="alert_dismiss">OK, parar alerta</string>
 </resources>
